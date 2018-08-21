@@ -23,12 +23,12 @@
 
 
 <meta name="author" content="apallier" />
-<meta name="description" content="La confusion n&#39;est pas loin - et le terme est trompeur - entre &#34;automatiser des tests&#34;* et* *&#34;*tester automatiquement un logiciel&#34;. Or il s&#39;agit bien du premier terme dont on parle lorsqu&#39;on dit &#34;Test automatique&#34;. Cette différence tenue est pourtant fondamentale car elle nous dit que les tests ne vont pas vraiment …" />
+<meta name="description" content="La confusion n&#39;est pas loin - et le terme est trompeur - entre &#34;automatiser des tests&#34; et &#34;tester automatiquement un logiciel&#34;. Or il s&#39;agit bien du premier terme dont on parle lorsqu&#39;on dit &#34;Test automatique&#34;. Cette différence tenue est pourtant fondamentale car elle nous dit que les tests ne vont pas vraiment …" />
 <meta name="keywords" content="automatisation, test logiciel">
 
 <meta property="og:site_name" content="Eh Bien Testez Maintenant !"/>
 <meta property="og:title" content="Test automatique : l&#39;écueil de la maintenance"/>
-<meta property="og:description" content="La confusion n&#39;est pas loin - et le terme est trompeur - entre &#34;automatiser des tests&#34;* et* *&#34;*tester automatiquement un logiciel&#34;. Or il s&#39;agit bien du premier terme dont on parle lorsqu&#39;on dit &#34;Test automatique&#34;. Cette différence tenue est pourtant fondamentale car elle nous dit que les tests ne vont pas vraiment …"/>
+<meta property="og:description" content="La confusion n&#39;est pas loin - et le terme est trompeur - entre &#34;automatiser des tests&#34; et &#34;tester automatiquement un logiciel&#34;. Or il s&#39;agit bien du premier terme dont on parle lorsqu&#39;on dit &#34;Test automatique&#34;. Cette différence tenue est pourtant fondamentale car elle nous dit que les tests ne vont pas vraiment …"/>
 <meta property="og:locale" content="fr_FR"/>
 <meta property="og:url" content="https://eh-bien-testez-maintenant.github.io/2018/01/19/test-automatique-lecueil-de-la-maintenance/"/>
 <meta property="og:type" content="article"/>
@@ -92,44 +92,44 @@
 
 
   <div>
-    <div dir="ltr" style="text-align: justify;"><div class="separator" style="clear: both; text-align: center;"><p><a class="reference external" href="https://2.bp.blogspot.com/-pdVmK5WMBT8/WmGrjHSdvRI/AAAAAAAACEI/g7LDnEsZ6dMd5ooj2o5hsTUMaFMVC1a-QCLcBGAs/s1600/P1090393.jpg"><img alt="image0" src="https://2.bp.blogspot.com/-pdVmK5WMBT8/WmGrjHSdvRI/AAAAAAAACEI/g7LDnEsZ6dMd5ooj2o5hsTUMaFMVC1a-QCLcBGAs/s200/P1090393.jpg" style="width: 200px; height: 150px;" /></a></p>
-</div><p>La confusion n'est pas loin - et le terme est trompeur - entre
-&quot;<em>automatiser des tests</em>&quot;*&nbsp;<em>et*&nbsp;*&quot;*tester automatiquement un
-logiciel</em>&quot;. Or il s'agit bien du premier terme dont on parle lorsqu'on
+    <img alt="Test automatique : l'écueil de la maintenance" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2018-test-automatique-lecueil-de-la-maintenance.jpg" style="width: 200px; height: 150px;" />
+<p>La confusion n'est pas loin - et le terme est trompeur - entre
+&quot;<em>automatiser des tests</em>&quot; et &quot;<em>tester automatiquement un logiciel</em>&quot;.
+Or il s'agit bien du premier terme dont on parle lorsqu'on
 dit &quot;Test automatique&quot;. Cette différence tenue est pourtant fondamentale
 car elle nous dit que les tests ne vont pas vraiment fonctionner tout
 seuls. Il va falloir les écrire et les maintenir au même titre
 d'ailleurs que&nbsp; n'importe quel logiciel informatique...</p>
-</div><div dir="ltr"><p>**
-Pourquoi ?**</p>
-</div><div dir="ltr"></div><div style="text-align: justify;"><p>Les tests automatiques vérifient un logiciel. Ce logiciel est sujet à
+<div class="section" id="pourquoi">
+<h2>Pourquoi ?</h2>
+<p>Les tests automatiques vérifient un logiciel. Ce logiciel est sujet à
 des modifications, si du moins le projet est &quot;vivant&quot;. Ces changements
 devront nécessairement se répercuter dans les tests et/ou dans
 l'environnement de test. Or ces changements ont un coût. Ce coût englobe
 le temps, les personnes et les compétences qu'il est nécessaire de
 déployer pour que les tests automatiques fonctionnent tout au long de la
 vie du projet.</p>
-</div><div style="text-align: justify;"><p>Des tests automatiques non maintenus perdent très vites de leur valeur,
+<p>Des tests automatiques non maintenus perdent très vites de leur valeur,
 surtout si le logiciel qu'ils testent évolue vite. On peut même imaginer
 arriver à un point de non retour où il n'est plus rentable de les
 remettre à jour. L'investissement dans les tests auto ne sera jamais
 rentabilisé, créant alors beaucoup de déception.</p>
-</div><div class="line-block">
-<div class="line"><br /></div>
 </div>
-<div dir="ltr"><p><strong>Mieux vaut prévenir...</strong></p>
-</div><div dir="ltr" style="text-align: justify;"><p>La négligence des aspects de maintenance est à mon avis l'une des
+<div class="section" id="mieux-vaut-prevenir">
+<h2>Mieux vaut prévenir...</h2>
+<p>La négligence des aspects de maintenance est à mon avis l'une des
 principales causes d'échec des projets d'automatisation. Après avoir
 investi dans la mise en place d'un environnement de test, on se rend
 compte que cela ne marche pas exactement &quot;tout seul&quot;, il y a toujours
 besoin de réaliser des ajustements. On est déçu et on abandonne.</p>
-</div><div dir="ltr" style="text-align: justify;"><p>On rêverait tous d'un logiciel qui s'auto-teste tout seul (pléonasme ?).
+<p>On rêverait tous d'un logiciel qui s'auto-teste tout seul (pléonasme ?).
 En attendant, à nous testeurs de rappeler aux décideurs que <strong>l'enjeu de
 la maintenance est crucial</strong> afin qu'il n'y ait pas de déception et que
 l'on puisse se lancer (ou non d'ailleurs) dans des projets
 d'automatisation de tests en <strong>connaissance de cause</strong>, en sachant sans
 feindre de l'ignorer quel est le vrai &quot;prix&quot; de l'automatisation.</p>
-</div></p>
+</div>
+
   </div>
   <div class="tag-cloud">
     <p>
