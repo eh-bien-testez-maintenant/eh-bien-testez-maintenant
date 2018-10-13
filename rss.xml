@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Eh Bien Testez Maintenant !</title><link>https://eh-bien-testez-maintenant.github.io/</link><description>Vous codiez ? J'en suis fort aise.&lt;br/&gt; Eh bien : testez maintenant !</description><lastBuildDate>Sun, 16 Sep 2018 18:00:00 +0200</lastBuildDate><item><title>La stratégie de test de la "Terre ronde"</title><link>https://eh-bien-testez-maintenant.github.io/2018/09/16/strategie-test-terre-ronde/</link><description>&lt;img alt="La stratégie de la &amp;quot;Terre ronde&amp;quot;" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2018-terre-globe.jpg" style="width: 400px;" /&gt;
+&lt;!-- Photo by Suzy Hazelwood from Pexels --&gt;
+&lt;p&gt;James Bach vient de publier (le 08/09/2018) sur son blog &lt;a class="reference external" href="http://www.satisfice.com/blog/archives/4947"&gt;un article&lt;/a&gt;  dans
+lequel il explique l'analogie qu'il fait entre le forme sphérique de la Terre et le Test logiciel.&lt;/p&gt;
+&lt;p&gt;Il a appelé ce modèle la &lt;strong&gt;stratégie de test de la &amp;quot;Terre ronde&amp;quot;&lt;/strong&gt; et je vais tenter d'en …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Sun, 16 Sep 2018 18:00:00 +0200</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2018-09-16:/2018/09/16/strategie-test-terre-ronde/</guid><category>strategie</category><category>test logiciel</category></item><item><title>Test automatique : la Flakiness</title><link>https://eh-bien-testez-maintenant.github.io/2018/09/02/test-automatique-flakiness/</link><description>&lt;img alt="Test automatique : la Flakiness" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2018-test-automatique-flakiness.jpg" style="width: 300px;" /&gt;
+&lt;div class="section" id="qu-est-ce-que-la-flakiness"&gt;
+&lt;h2&gt;Qu'est-ce que la flakiness ?&lt;/h2&gt;
+&lt;p&gt;Il existe un phénomène peut-être méconnu ou bien sous-estimé lorsque l'on fait du Test automatique : la &amp;quot;&lt;strong&gt;flakiness&lt;/strong&gt;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Google définit le terme &amp;quot;&lt;em&gt;flaky&lt;/em&gt;&amp;quot; de la façon suivante &lt;a class="footnote-reference" href="#f1" id="id1"&gt;[1]&lt;/a&gt; :&lt;/p&gt;
+&lt;blockquote&gt;
+Un résultat de test est &amp;quot;&lt;em&gt;flaky&lt;/em&gt;&amp;quot; lorsque le test peut à la fois passer et être un échec sur …&lt;/blockquote&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Sun, 02 Sep 2018 08:30:00 +0200</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2018-09-02:/2018/09/02/test-automatique-flakiness/</guid><category>automatisation</category><category>test logiciel</category></item><item><title>Compilation 2017: Interviews de Testeur Logiciels</title><link>https://eh-bien-testez-maintenant.github.io/2018/02/27/compilation-2017-interviews-de-testeur-logiciels/</link><description>&lt;img alt="Interviews" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2018-interviews.jpg" style="width: 200px; height: 111px;" /&gt;
+&lt;p&gt;&lt;strong&gt;Compilation 2017&lt;/strong&gt; d'interviews de Testeurs Logiciels qui témoignent
+de leur métier.
+J'ai trouvé de nombreuses interviews de testeurs en 2017, grâce
+notamment au travail de &lt;a class="reference external" href="https://www.lyontesting.fr/"&gt;Lyon Testing&lt;/a&gt;  et
+de &lt;a class="reference external" href="https://latavernedutesteur.fr/"&gt;La Taverne du Testeur&lt;/a&gt;  que je remercie au passage
+de partager ces témoignages.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;28/12
+:&amp;nbsp;&lt;a class="reference external" href="http://www.acpqualife.com/actu/t%C3%A9moignage-emilie-ing%C3%A9nieur-test"&gt;http://www.acpqualife.com/actu/t …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Tue, 27 Feb 2018 19:51:00 +0100</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2018-02-27:/2018/02/27/compilation-2017-interviews-de-testeur-logiciels/</guid><category>interviews</category><category>test logiciel</category></item><item><title>Test automatique : l'écueil de la maintenance</title><link>https://eh-bien-testez-maintenant.github.io/2018/01/19/test-automatique-lecueil-de-la-maintenance/</link><description>&lt;img alt="Test automatique : l'écueil de la maintenance" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2018-test-automatique-lecueil-de-la-maintenance.jpg" style="width: 200px; height: 150px;" /&gt;
+&lt;p&gt;La confusion n'est pas loin - et le terme est trompeur - entre
+&amp;quot;&lt;em&gt;automatiser des tests&lt;/em&gt;&amp;quot; et &amp;quot;&lt;em&gt;tester automatiquement un logiciel&lt;/em&gt;&amp;quot;.
+Or il s'agit bien du premier terme dont on parle lorsqu'on
+dit &amp;quot;Test automatique&amp;quot;. Cette différence tenue est pourtant fondamentale
+car elle nous dit que les tests ne vont pas vraiment …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Fri, 19 Jan 2018 08:28:00 +0100</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2018-01-19:/2018/01/19/test-automatique-lecueil-de-la-maintenance/</guid><category>automatisation</category><category>test logiciel</category></item><item><title>Les environnements de test logiciel</title><link>https://eh-bien-testez-maintenant.github.io/2017/11/01/les-environnements-de-test-logiciel/</link><description>&lt;img alt="Couverture du livre" class="align-center" src="https://eh-bien-testez-maintenant.github.io/images/2017-les-environnements-de-test-logiciel.jpg" style="width: 200px; height: 133px;" /&gt;
+&lt;p&gt;Le déploiement d'environnement de test est une activité importante du
+test logiciel. En effet, il peut devenir un point critique s'il est
+complexe à mettre en place &lt;a class="footnote-reference" href="#f1" id="id1"&gt;[1]&lt;/a&gt;. C'est une lapalissade : &amp;quot;plus le
+temps de mise en place d'un environnement de test est long, moins on
+testera&amp;quot;. Le temps qui …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Wed, 01 Nov 2017 21:37:00 +0100</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2017-11-01:/2017/11/01/les-environnements-de-test-logiciel/</guid><category>environnement de test</category><category>test logiciel</category></item><item><title>Memo : Déploiement d'environnement de test (ou autres)</title><link>https://eh-bien-testez-maintenant.github.io/2016/12/17/memo-deploiement-denvironnement-de-test-ou-autres/</link><description>&lt;p&gt;Liens concernant le déploiement d'environnement de test.&lt;/p&gt;
+&lt;div class="section" id="cobbler"&gt;
+&lt;h2&gt;Cobbler&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://cobbler-doc.readthedocs.io/"&gt;My Cobbler documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.olindata.com/blog/2015/07/cobbler-setup-centos7"&gt;Cobbler Setup on
+CentOS7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.linuxtechi.com/install-and-configure-cobbler-on-centos-7/"&gt;How to Install and Configure Cobbler on CentOS
+7.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="foreman"&gt;
+&lt;h2&gt;Foreman&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.linuxtechi.com/install-and-configure-foreman-on-centos-7-x/"&gt;Steps to Install and Configure Foreman 1.11 on CentOS
+7.x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.linuxtechi.com/bare-metal-provisioning-through-foreman-server/"&gt;Bare metal and Virtual Machine Provisioning through Foreman
+Server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Sat, 17 Dec 2016 23:07:00 +0100</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2016-12-17:/2016/12/17/memo-deploiement-denvironnement-de-test-ou-autres/</guid><category>environnement de test</category><category>test logiciel</category></item><item><title>Livre : Les tests logiciels fondamentaux</title><link>https://eh-bien-testez-maintenant.github.io/2016/11/03/livre-les-tests-logiciels-fondamentaux/</link><description>&lt;img alt="Couverture du livre" class="align-center" src="https://static.eyrolles.com/img/2/7/4/6/2/3/1/5/9782746231559_h430.jpg" style="width: 213px; height: 320px;" /&gt;
+&lt;div class="section" id="avis"&gt;
+&lt;h2&gt;Avis&lt;/h2&gt;
+&lt;p&gt;Le livre &amp;quot;Les tests logiciels fondamentaux&amp;quot; de l'éditeur
+Hermès-Lavoisier est surement le livre de référence en langue française
+sur le sujet.&lt;/p&gt;
+&lt;p&gt;L'auteur, Bernard Homès, est un spécialiste reconnu du test logiciel en
+France. Il est l'ancien président du &amp;quot;Comité français des tests
+logiciels&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Cet ouvrage est en quelques sortes …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Thu, 03 Nov 2016 08:19:00 +0100</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2016-11-03:/2016/11/03/livre-les-tests-logiciels-fondamentaux/</guid><category>livre</category><category>test logiciel</category></item><item><title>Livre : Pratique des tests logiciels</title><link>https://eh-bien-testez-maintenant.github.io/2016/10/23/livre-pratique-des-tests-logiciels/</link><description>&lt;img alt="Couverture du livre" class="align-center" src="https://books.google.fr/books/content?id=UWj2yEt78l0C&amp;amp;printsec=frontcover&amp;amp;img=1&amp;amp;zoom=5&amp;amp;edge=curl&amp;amp;imgtk=AFLRE70GJsU-dpETfg7XS-XIp52pCoETKtMS-W2RQ-OXFwWZ7OiNS27uiLOEEduHkwv1I1nh2vGlV_48J1DmVhiA78oF1gbKVAeXj_SwAVHhMu6D_jfHcNjtamZw489s_mEpUD9zGHI9" /&gt;
+&lt;div class="section" id="avis"&gt;
+&lt;h2&gt;Avis&lt;/h2&gt;
+&lt;p&gt;Le livre &amp;quot;Pratique des tests logiciels&amp;quot; de l'éditeur Dunod (1ère édition) est une bonne entrée en matière pour
+aborder de façon concrète la problématique du test logiciel.&lt;/p&gt;
+&lt;p&gt;Sa lecture se fait de façon progressive. Les chapitres 1 et 2 décrivent
+les grands enjeux du test logiciel et s'adressent à …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Sun, 23 Oct 2016 21:05:00 +0200</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2016-10-23:/2016/10/23/livre-pratique-des-tests-logiciels/</guid><category>livre</category><category>test logiciel</category></item><item><title>Développement logiciel et Gouvernance</title><link>https://eh-bien-testez-maintenant.github.io/2016/10/19/developpement-logiciel-et-gouvernance/</link><description>&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Pour qu’on ne puisse abuser du pouvoir, il faut que, par la
+disposition des choses, le pouvoir arrête le pouvoir&amp;quot;&lt;/p&gt;
+&lt;p class="attribution"&gt;&amp;mdash;Montesquieu, &lt;em&gt;De l'esprit des lois&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Cette citation de Montesquieu parle bien sûr de politique et de la
+séparation de ses pouvoirs. Dans cet article, je vais décrire une
+approche …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">apallier</dc:creator><pubDate>Wed, 19 Oct 2016 20:51:00 +0200</pubDate><guid isPermaLink="false">tag:eh-bien-testez-maintenant.github.io,2016-10-19:/2016/10/19/developpement-logiciel-et-gouvernance/</guid><category>gouvernance</category><category>test logiciel</category></item></channel></rss>
